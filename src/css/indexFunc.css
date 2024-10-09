@@ -1,0 +1,58 @@
+.image-1-icon {
+    position: absolute;
+    top: -103px;
+    left: 0px;
+    width: 1440px;
+    height: 1229px;
+    object-fit: cover;
+}
+.logoagro-icon {
+    position: absolute;
+    top: 43px;
+    left: 72px;
+    width: 95px;
+    height: 75px;
+    object-fit: cover;
+}
+.controle-de {
+    margin: 0;
+}
+.controle-de-produo-container {
+    position: relative;
+}
+.controle-de-produo-parent {
+    position: absolute;
+    top: 50px;
+    left: 432px;
+    border-radius: 8px;
+    background-color: #2f2f2f;
+    width: 980px;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 10px;
+    box-sizing: border-box;
+}
+.controle-de-produo {
+    position: absolute;
+    top: 150px;
+    left: 466px;
+    font-size: 48px;
+    text-align: left;
+    display: inline-block;
+    width: 496px;
+}
+.area-usurio {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 2%, rgba(0, 0, 0, 0.2) 91%), rgba(255, 255, 255, 0.5);
+    height: 1024px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    font-family: Inter;
+}
+

@@ -1,0 +1,135 @@
+.image-1-icon {
+    position: absolute;
+    top: -103px;
+    left: 0px;
+    width: 1440px;
+    height: 1229px;
+    object-fit: cover;
+}
+.inicio {
+    position: relative;
+}
+.teclas-de-navegao {
+    position: absolute;
+    top: 54px;
+    left: 927px;
+    border-radius: 5px;
+    background-color: #595959;
+    width: 440px;
+    height: 44px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.logoagro-icon {
+    position: absolute;
+    top: 43px;
+    left: 72px;
+    width: 95px;
+    height: 75px;
+    object-fit: cover;
+}
+.login2 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 5px;
+    background-color: rgba(208, 215, 248, 0.5);
+    width: 490px;
+    height: 520px;
+}
+.se-no-for {
+    position: absolute;
+    top: 444.46px;
+    left: 103px;
+    font-size: 12px;
+    display: inline-block;
+    width: 301px;
+    height: 16.4px;
+}
+.input-email-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 6px;
+    background-color: #d9d9d9;
+    width: 350px;
+    height: 48.2px;
+}
+.emailgmailcom {
+    position: absolute;
+    top: 14.23px;
+    left: 98px;
+    display: inline-block;
+    width: 146px;
+    height: 19.7px;
+}
+.input-email {
+    position: absolute;
+    top: 89.77px;
+    left: 79px;
+    width: 350px;
+    height: 48.2px;
+}
+.div {
+    position: absolute;
+    top: 14.23px;
+    left: 98px;
+    display: inline-block;
+    width: 150px;
+    height: 19.7px;
+}
+.input-senha {
+    position: absolute;
+    top: 197.05px;
+    left: 79px;
+    width: 350px;
+    height: 48.2px;
+}
+.boto-acessar-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #abfba7;
+    width: 150px;
+    height: 48.2px;
+}
+.acessar {
+    position: absolute;
+    top: 14.23px;
+    left: 46px;
+    display: inline-block;
+    width: 57px;
+    height: 19.7px;
+}
+.boto-acessar {
+    position: absolute;
+    top: 352.51px;
+    left: 175px;
+    width: 150px;
+    height: 48.2px;
+}
+.login1 {
+    position: absolute;
+    top: 252px;
+    left: 475px;
+    width: 490px;
+    height: 520px;
+    font-size: 15px;
+    color: #000;
+}
+.login {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 2%, rgba(0, 0, 0, 0.2) 91%), rgba(255, 255, 255, 0.5);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: Inter;
+}
